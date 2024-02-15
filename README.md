@@ -25,7 +25,7 @@ Sorting Visualizer is a project that provides a visual representation of various
 
 ## Preview 
 
--- Let's Start 🚀
+- Let's Start 🚀
 ![image](https://github.com/tejas09012002/Sorting-Visualization/assets/89599106/0a61801c-4d21-4a9c-88a0-7d51a3612e10)
 
 
